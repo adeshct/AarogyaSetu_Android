@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">ಆರೋಗ್ಯ ಸೇತು</string>
-    <string name="your_mobile_number_is_required_to_know_your_identity">ಕಾಂಟಾಕ್ಟ್ ಟ್ರೇಸಿಂಗ್‌ಗಾಗಿ ನಿಮ್ಮ ಮೊಬೈಲ್ ನಂಬರ್ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="your_mobile_number_is_required_to_know_your_identity">ಕಾಂಟಾಕ್ಟ್ ಟ್ರೇಸಿಂಗ್‌ಗಾಗಿ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಅಗತ್ಯವಿದೆ.</string>
     <string name="text_value">ನೀವು ವಾರದ ಹಿಂದೆ ಒಬ್ಬರನ್ನು ಭೇಟಿ ಮಾಡಿದ್ದೀರಿ ಅಥವಾ ಸಾರ್ವಜನಿಕ ಸ್ಥಳದಲ್ಲಿ ಅಪರಿಚಿತರ ಹತ್ತಿರದಲ್ಲಿದ್ದಿರಿ ಮತ್ತು ಕೆಲವು ದಿನಗಳ ನಂತರ ಅವರು COVID-19 ಟೆಸ್ಟ್ ಪಾಸಿಟಿವ್ ಆಗಿರುತ್ತಾರೆ\n\nಭಾರತ ಸರ್ಕಾರವು ಕಳೆದ 14 ದಿನಗಳಲ್ಲಿ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲಾದ ಆ್ಯಪ್‌ ಮೂಲಕ ಸಕ್ರಿಯ ಡಿವೈಸ್‌ಗಳೊಂದಿಗೆ ಆ ವ್ಯಕ್ತಿಯ ಹತ್ತಿರದಲ್ಲಿದ್ದ ಎಲ್ಲಾ ಟಚ್ ಪಾಯಿಂಟ್‌ಗಳನ್ನು ವಾಪಸ್ ಟ್ರೇಸ್ ಮಾಡುತ್ತದೆ\n\nಮುಂದಿನ ಪ್ರಕ್ರಿಯೆಯಾಗಿ, ಈ ಎಲ್ಲಾ ಕಾಂಟಾಕ್ಟ್‌ಗಳಿಗೆ ಸ್ವಯಂ ಐಸೋಲೇಟ್ ಆಗಲು ಮತ್ತು ಅಗತ್ಯವಿದ್ದರೆ ಹತ್ತಿರದ ಸೆಂಟರಿನಲ್ಲಿ ಟೆಸ್ಟ್ ಮಾಡಿಕೊಳ್ಳುವ ಸಲಹೆಯೊಂದಿಗೆ ನೋಟಿಫಿಕೇಶನ್ ಅನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತದೆ.\n\nಸಕ್ರಿಯ ಕಾಂಟಾಕ್ಟ್ ಟ್ರೇಸಿಂಗ್‌ನಲ್ಲಿ ಭಾಗವಹಿಸುವ ಮೂಲಕ, ನೀವು COVID-19 ನ ಹರಡುವಿಕೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತೀರಿ ಮತ್ತು ನಿಮ್ಮ ಆರೋಗ್ಯ ಮತ್ತು ಯೋಗಕ್ಷೇಮಕ್ಕಾಗಿ ಸಕ್ರಿಯ ಕ್ರಮಗಳನ್ನು ಅನುಷ್ಠಾನಗೊಳಿಸಲು ಭಾರತ ಸರ್ಕಾರಕ್ಕೆ ಅನುವು ಮಾಡಿಕೊಡುತ್ತೀರಿ.\n\n</string>
     <string name="permissions_title">सಸಮುದಾಯದಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳಲು ಲಾಗಿನ್ ಮಾಡಿ</string>
     <string name="permissions_detail">ಸೇವೆ ಮತ್ತು ಗೌಪ್ಯತೆಯ ನಿಯಮಗಳು ಈ ವಿಷಯದ ಸ್ವರೂಪ ಮತ್ತು ಸೂಕ್ಷ್ಮತೆಯನ್ನು ನಾವು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತೇವೆ ಮತ್ತು ನಿಮ್ಮ ಮಾಹಿತಿಗೆ ಯಾವುದೇ ರೀತಿಯ ಧಕ್ಕೆ ಬಾರದಂತೆ ಈ ಕುರಿತು ನಾವು ಪರಿಣಾಮಕಾರಿ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳುವ ಬಗ್ಗೆ ಭರವಸೆ ನೀಡುತ್ತೇವೆ</string>
@@ -8,17 +8,17 @@
     <!-- phone_number_layout -->
     <string name="enter_mobile_number">ಮೊಬೈಲ್ ನಂಬರ್ ನಮೂದಿಸಿ</string>
     <string name="country_code">+91 </string>
-    <string name="mobile_number">ಮೊಬೈಲ್ ನಂಬರ್</string>
+    <string name="mobile_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
     <string name="why_is_it_needed">ಇದು ಯಾಕೆ ಬೇಕಾಗಿದೆ?</string>
     <string name="submit">ಸಲ್ಲಿಸಿ</string>
     <string name="resend_otp">OTP ಯನ್ನು ಮತ್ತೆ ಕಳುಹಿಸಿ</string>
     <string name="resend_otp_in">OTP ಅನ್ನು %s ಮರುಹೊಂದಿಸಿ</string>
     <!-- otp_validation_layout -->
     <string name="enter_otp">OTP ನಮೂದಿಸಿ</string>
-    <string name="we_have_sent_otp">ನಿಮ್ಮ ಮೊಬೈಲ್ ನಂಬರಿಗೆ ನಾವು OTP ಯನ್ನು ಕಳುಹಿಸಿದ್ದೇವೆ.</string>
-    <string name="we_have_resent_otp">ನಿಮ್ಮ ಮೊಬೈಲ್ ನಂಬರಿಗೆ ನಾವು OTP ಯನ್ನು ಮರುಹೊಂದಿಸಿ.</string>
+    <string name="we_have_sent_otp">ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಗೆ ನಾವು OTP ಯನ್ನು ಕಳುಹಿಸಿದ್ದೇವೆ.</string>
+    <string name="we_have_resent_otp">ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಗೆ ನಾವು OTP ಯನ್ನು ಮತ್ತೆ ಕಳುಹಿಸಿದ್ದೇವೆ.</string>
     <string name="otp">OTP</string>
-    <string name="please_enter_a_valid_otp">ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಒಟಿಪಿ ನಮೂದಿಸಿ</string>
+    <string name="please_enter_a_valid_otp">ದಯವಿಟ್ಟು ಸರಿಯಾದ ಒಟಿಪಿ ನಮೂದಿಸಿ</string>
     <!-- why_needed_layout -->
     <string name="i_understand">ನನಗೆ ಅರ್ಥವಾಗುತ್ತದೆ.</string>
     <string name="device_location"><![CDATA[<b>ಡಿವೈಸ್ ಲೊಕೇಶನ್</b>]]></string>
@@ -86,29 +86,29 @@
     <string name="settings">ಸಂಯೋಜನೆಗಳು</string>
     <string name="share_data_with_govt_detail">ನೀವು ಕೋವಿಡ್-೧೯ಗಾಗಿ ಪಾಸಿಟಿವ್ ಪರೀಕ್ಷೆ ಮಾಡಿದ್ದರೆ ಅಥವಾ ಪ್ರಸ್ತುತ ಪರೀಕ್ಷಿಸಲಾಗುತ್ತಿದ್ದರೆ ಮಾತ್ರ ಹಂಚಿಕೊಳ್ಳಿ</string>
     <string name="call_helpline_detail">ಕೋವಿಡ್-೧೯ಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆಗಳಿಗೆ ಆರೋಗ್ಯ ಸಚಿವಾಲಯ ಟೋಲ್-ಫ್ರೀ ಸಹಾಯವಾಣಿ</string>
-    <string name="faq">ಎಫ್ಎಕ್ಯೂಸ್ಗಳು</string>
+    <string name="faq">ಮತ್ತೆ ಮತ್ತೆ ಕೇಳಿಬರುವ ಪ್ರಶ್ನೆಗಳು</string>
     <string name="privacy_policy">ಗೌಪ್ಯತೆ ನೀತಿ</string>
     <string name="terms_of_use">ಬಳಕೆಯ ನಿಯಮಗಳು</string>
     <string name="app_version">ಅಪ್ಲಿಕೇಶನ್ ಆವೃತ್ತಿ %s</string>
     <string name="scan_prompt">ಬೇರೊಬ್ಬರ ಆರೋಗ್ಯ ಸ್ಥಿತಿಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಕ್ಯೂಆರ್ ಕೋಡ್ ಅನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
-    <string name="few_seconds">ಕೆಲವು ಸೆಕೆಂಡುಗಳು</string>
+    <string name="few_seconds">ಕೆಲವೇ ಸೆಕೆಂಡುಗಳು</string>
     <string name="minutes">ನಿಮಿಷ</string>
-    <string name="scan_to_check_status">ನನ್ನ ಆರೋಗ್ಯ ಸ್ಥಿತಿ ಪಡೆಯಲು ಕ್ಯೂಆರ್ ಕೋಡ್ ಅನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+    <string name="scan_to_check_status">ಆರೋಗ್ಯ ಸ್ಥಿತಿ ಪಡೆಯಲು ಕ್ಯೂಆರ್ ಕೋಡ್ ಅನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
     <string name="tap_to_refresh">ಕ್ಯೂಆರ್ ಕೋಡ್ ರಿಫ್ರೆಶ್ ಅನ್ನು ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
     <string name="qr_code_valid_for">ಕ್ಯೂಆರ್ ಕೋಡ್ ಮಾನ್ಯವಾಗಿದೆ</string>
     <string name="scan_other_s_qr_code">ಇತರರ ಕ್ಯೂಆರ್ ಕೋಡ್ ಅನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
     <string name="generate_my_qr_code">ನನ್ನ ಕ್ಯೂಆರ್ ಕೋಡ್ ಅನ್ನು ರಚಿಸಿ</string>
-    <string name="invalid_qr_code">ಅಮಾನ್ಯ ಕ್ಯೂಆರ್ ಕೋಡ್</string>
+    <string name="invalid_qr_code">ಸರಿಯಾದ ಕ್ಯೂಆರ್ ಕೋಡ್ ಅಲ್ಲ</string>
     <string name="not_generated_aarogya_setu">ಇದನ್ನು ಅಧಿಕೃತ ಆರೋಗ್ಯ ಸೇತು ಅಪ್ಲಿಕೇಶನ್‌ನಿಂದ ರಚಿಸಲಾಗಿಲ್ಲ.</string>
     <string name="request_new_code">ಹೊಸ ಕೋಡ್ ಅನ್ನು ರಚಿಸಲು ದಯವಿಟ್ಟು ಆ ವ್ಯಕ್ತಿಯನ್ನು ವಿನಂತಿಸಿ</string>
     <string name="expired_code">ಅವಧಿ ಮುಗಿದ ಕ್ಯೂಆರ್ ಕೋಡ್</string>
     <string name="low_risk">ಸೋಂಕಿನ ಅಪಾಯ ಕಡಿಮೆ</string>
     <string name="moderate_risk">ಸೋಂಕಿನ ಅಪಾಯ ಮಧ್ಯಮ</string>
     <string name="high_risk">ಸೋಂಕಿನ ಅಪಾಯ ಹೆಚ್ಚು</string>
-    <string name="tested_positive_status">ಕೋವಿಡ್-೧೯ಗಾಗಿ ಪಾಸಿಟಿವ್ ಪರೀಕ್ಷಿಸಲಾಗಿದೆ</string>
+    <string name="tested_positive_status">ಕೋವಿಡ್-೧೯ ಪರೀಕ್ಷೆ ಪಾಸಿಟಿವ್ ಆಗಿದೆ</string>
     <string name="provide_necessary_permission">ನಿಮ್ಮ ಕ್ಯೂಆರ್ ಕೋಡ್ ಸೆರೆಹಿಡಿಯಲು ದಯವಿಟ್ಟು ಅಗತ್ಯ ಅನುಮತಿಯನ್ನು ನೀಡಿ</string>
     <string name="scan_without_perm_alert">ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನಿಂಗ್ ಮಾಡಲು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಕ್ಯಾಮೆರಾ ಅನುಮತಿ ಅಗತ್ಯವಿದೆ.</string>
     <string name="open_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</string>
-    <string name="common_scanning_error">ಕೆಲವು ವಿನಾಯಿತಿ ಸಂಭವಿಸಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+    <string name="common_scanning_error">ಸರಿಯಾಗಿ ಸ್ಕ್ಯಾನ್ ಆಗಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
     <string name="hamburger_menu_intro">ಸಹಾಯವಾಣಿ, ಗೌಪ್ಯತೆ ನೀತಿ, ಬಳಕೆಯ ನಿಯಮಗಳು ಮತ್ತು ಹೆಚ್ಚಿನ ಹೊಸ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಇಲ್ಲಿ ಕಾಣಬಹುದು.</string>
 </resources>
